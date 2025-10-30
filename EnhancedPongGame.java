@@ -4,7 +4,6 @@ import java.awt.event.*;
 import java.util.Random;
 import java.util.ArrayList;
 import java.util.List;
-
 /**
  * EnhancedPongGame.java
  * Advanced Pong with visual effects, sound, multiple power-ups, and improved AI.
@@ -926,4 +925,5 @@ public class EnhancedPongGame extends JPanel implements ActionListener, KeyListe
             frame.setVisible(true);
         });
     }
+
 }
